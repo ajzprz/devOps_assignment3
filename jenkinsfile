@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    imagename = "ajzprz/c0886029-assignment-4"
+    imagename = "ajzprz/assignment3"
     registryCredential = 'docker_registry_key_1'
     dockerImage = ''
   }
